@@ -63,7 +63,7 @@
 <text x="495.20000000000005" y="385.0" font-size="15" fill="#61DAFB"><tspan fill="#61DAFB" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">React</tspan></text>
 <text x="495.20000000000005" y="405.0" font-size="15" fill="#3BA0D0"><tspan fill="#3BA0D0" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">Yarn</tspan></text>
 <text x="495.20000000000005" y="425.0" font-size="15" fill="#5B9BD5"><tspan fill="#5B9BD5" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">PostgreSQL</tspan></text>
-<text x="495.20000000000005" y="445.0" font-size="15" fill="#4EA0E8"><tspan fill="#4EA0E8" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">Prisma</tspan></text>
+<text x="495.20000000000005" y="445.0" font-size="15" fill="#4EA0E8"><tspan fill="#4EA0E8" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">Drizzle</tspan></text>
 <text x="495.20000000000005" y="465.0" font-size="15" fill="#3ECF8E"><tspan fill="#3ECF8E" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">Supabase</tspan></text>
 <text x="495.20000000000005" y="485.0" font-size="15" fill="#5FA4D0"><tspan fill="#5FA4D0" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">MySQL</tspan></text>
 <text x="495.20000000000005" y="505.0" font-size="15" fill="#00C4CC"><tspan fill="#00C4CC" fill-opacity="0.7">&gt; </tspan><tspan font-weight="bold">Canva</tspan></text>
